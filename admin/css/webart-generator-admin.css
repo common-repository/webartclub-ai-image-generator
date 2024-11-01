@@ -1,0 +1,15 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.webcontainer{
+	display:flex;
+}
+.webcontainer .right_side{
+	padding: 0 30px;
+}
+
+.webcontainer .left_side{
+	    min-width: 600px;
+}
